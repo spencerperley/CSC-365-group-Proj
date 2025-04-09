@@ -18,3 +18,7 @@ Start a new github repository (just one for your entire team) and create a markd
 ## Contributors : Spencer Perley, Matt Dumag
 
 ## Proposal : Poker History Analisys, Our Proposal is a Poker history website that would build appon an existing poker game. We have a poker game that we can interface with in the terminal and change the source code of in python. we will extend this code in order to make a website that takes the game data and does analysis on it so that the user can improve their games. The persistent aspect will be the record of all of the games (Bets, Players, Cards ...). There will be live read and write while the player plays the game and can also get analisys on the spot while playing the game so that it is some what live, or this can be accessed in retrospect. 
+
+
+## Alternative Exploration (to primary proposal):
+    Daily Meal Log/Tracker: a backend API for a meal logging and nutrition tracking service. Users will be able to track their meals, calories, and macronutrients, set health goals, and generate grocery lists based on their planned meals. The API will also offer recipe suggestions tailored to user preferences and budgets. Our goal is to explore how backend systems can support personal health and nutrition through structured data and smart recommendations.
